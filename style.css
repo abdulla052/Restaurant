@@ -1,0 +1,60 @@
+body {
+    font-weight: 600;
+}
+
+h1 {
+    color: maroon;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+.main-container {
+    margin: 60px 400px;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+.contents-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}
+
+.rest-img {
+    height: 170px;
+    margin-right: 100px;
+}
+
+.table-container {
+    position: relative;
+    top: 30;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table td {
+    padding: 3px 30px 3px 5px;
+    border: solid 2px blue;
+    border-collapse: collapse;
+}
+
+.text {
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.text a {
+    color: black;
+    font-weight: 600;
+}
+
+.list-links {
+    color: black;
+    text-decoration: none;
+}
